@@ -99,7 +99,8 @@
     height: 50px;
     border-radius: 15px;
     border: #023e8a solid 5px;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
+    font-weight: bolder;
 }
 
 .div4{
@@ -111,7 +112,7 @@
     height: 50px;
     border-radius: 15px;
     border: #800e13 solid 5px;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
 }
 
 .div4div3{
@@ -119,7 +120,7 @@
     height: 50px;
     border-radius: 15px;
     border: #023e8a solid 5px;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
 }
 
 .div4div4{
@@ -127,7 +128,7 @@
     height: 50px;
     border-radius: 15px;
     border: #800e13 solid 5px;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
 }
 
 .div4div5{
@@ -135,7 +136,7 @@
     height: 50px;
     border-radius: 15px;
     border: #023e8a solid 5px;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
 }
 
 .div4div6{
@@ -143,5 +144,5 @@
     height: 50px;
     border-radius: 15px;
     border: #800e13 solid 5px;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
 }
