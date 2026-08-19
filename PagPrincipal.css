@@ -1,5 +1,5 @@
 .div1div1{
-    background-color: #013a63;
+    background: linear-gradient(to right, #800e13, #023e8a);
     width: 100%;
     height: 75px;
     border-radius: 10px;
@@ -7,4 +7,74 @@
 
 .div1div1img1{
     padding-top: 5px;
+}
+
+.div2div1{
+    width: 25%;
+    height: 150px;
+    border-radius: 15px;
+    border: #800e13 solid 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: #ffffff;
+}
+
+.div2div2{
+    width: 25%;
+    height: 150px;
+    border-radius: 15px;
+    border: #023e8a solid 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: #ffffff;
+}
+
+.div2div3{
+    width: 25%;
+    height: 150px;
+    border-radius: 15px;
+    border: #800e13 solid 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: #ffffff;
+}
+
+.div2div4{
+    width: 25%;
+    height: 150px;
+    border-radius: 15px;
+    border: #023e8a solid 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: #ffffff;
+}
+
+.div2{
+    display: flex;
+    gap: 2px;
+    padding-top: 10px;
+}
+
+.div2div1 img{
+    border-radius: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.div2div2 img{
+    border-radius: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.div2div3 img{
+    border-radius: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.div2div4 img{
+    border-radius: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
 }
