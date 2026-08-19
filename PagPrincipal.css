@@ -1,8 +1,9 @@
 .div1div1{
     background-color: #ae2012;
     width: 100%;
-    height: 52px;
+    height: 75px;
     border-radius: 10px;
+    display: flex;
 }
 
 .div1div1p1{
@@ -11,5 +12,10 @@
     color: #ffffff;
     padding-top: 0px;
     padding-bottom: 0px;
-    display: flex;
+    padding-left: 300px;
+}
+
+.div1div1img1{
+    padding-left: 50px;
+    padding-top: 5px;
 }
