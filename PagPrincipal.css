@@ -95,12 +95,53 @@
 }
 
 .div4div1{
-    width: 300px;
+    width: 450px;
     height: 50px;
     border-radius: 15px;
     border: #023e8a solid 5px;
+    margin-bottom: 5px;
 }
 
 .div4{
     padding-top: 10px;
+}
+
+.div4div2{
+    width: 450px;
+    height: 50px;
+    border-radius: 15px;
+    border: #800e13 solid 5px;
+    margin-bottom: 5px;
+}
+
+.div4div3{
+    width: 450px;
+    height: 50px;
+    border-radius: 15px;
+    border: #023e8a solid 5px;
+    margin-bottom: 5px;
+}
+
+.div4div4{
+    width: 450px;
+    height: 50px;
+    border-radius: 15px;
+    border: #800e13 solid 5px;
+    margin-bottom: 5px;
+}
+
+.div4div5{
+    width: 450px;
+    height: 50px;
+    border-radius: 15px;
+    border: #023e8a solid 5px;
+    margin-bottom: 5px;
+}
+
+.div4div6{
+    width: 450px;
+    height: 50px;
+    border-radius: 15px;
+    border: #800e13 solid 5px;
+    margin-bottom: 5px;
 }
